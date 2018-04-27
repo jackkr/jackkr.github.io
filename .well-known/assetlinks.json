@@ -1,10 +1,9 @@
-[
-{
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.sypark.instant.test",
     "sha256_cert_fingerprints":
-    ["D6:08:9D:C0:EA:29:F4:D5:C3:6F:BB:5D:4E:82:6B:81:E0:38:5C:FD:1E:3D:31:28:6C:DD:37:97:FA:85:BC:86"]
+    ["SHA256: 86:6D:AA:D2:ED:3F:6A:5F:52:CD:B7:DB:4D:C4:1E:5D:40:44:E5:9B:87:3B:22:E0:C9:4B:71:DE:52:58:07:38"]
   }
 }]
