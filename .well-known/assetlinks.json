@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.sypark.instant.test",
+    "package_name": "com.rsupport.sypark.instant",
     "sha256_cert_fingerprints":
-    ["86:6D:AA:D2:ED:3F:6A:5F:52:CD:B7:DB:4D:C4:1E:5D:40:44:E5:9B:87:3B:22:E0:C9:4B:71:DE:52:58:07:38"]
+    ["2B:80:7A:9F:92:52:A0:C3:40:F1:BD:39:5A:AC:98:C7:92:80:E8:6A:B2:D8:1D:5B:40:1C:48:62:8D:1E:53:91"]
   }
 }]
